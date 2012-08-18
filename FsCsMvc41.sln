@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsCsMvc41WebApi", "FsCsMvc41\FsCsMvc41WebApi\FsCsMvc41WebApi.csproj", "{55F87D60-559D-4ABB-BB1C-264B8C9C9BCD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsCsMvc41WebAppApi", "FsCsMvc41\FsCsMvc41WebAppApi\FsCsMvc41WebAppApi.fsproj", "{6AE466C8-3300-4E92-8CEF-F6F3E2242074}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsCsMvc41WebAppTests", "FsCsMvc41\FsCsMvc41WebAppTests\FsCsMvc41WebAppTests.fsproj", "{A017D55D-2AA0-461E-A860-BED709A68DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F87D60-559D-4ABB-BB1C-264B8C9C9BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F87D60-559D-4ABB-BB1C-264B8C9C9BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F87D60-559D-4ABB-BB1C-264B8C9C9BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F87D60-559D-4ABB-BB1C-264B8C9C9BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE466C8-3300-4E92-8CEF-F6F3E2242074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE466C8-3300-4E92-8CEF-F6F3E2242074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE466C8-3300-4E92-8CEF-F6F3E2242074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE466C8-3300-4E92-8CEF-F6F3E2242074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A017D55D-2AA0-461E-A860-BED709A68DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A017D55D-2AA0-461E-A860-BED709A68DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A017D55D-2AA0-461E-A860-BED709A68DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A017D55D-2AA0-461E-A860-BED709A68DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
